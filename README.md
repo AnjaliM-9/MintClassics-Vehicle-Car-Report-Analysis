@@ -78,8 +78,24 @@ Steps performed for Data transformation in Power Query after the dataset loaded 
 
 ## Dashboard (Data Visualization)
 ### Warehouse Analysis
+![MintClassics_page-0001](https://github.com/AnjaliM-9/MintClassics-Vehicle-Car-Report-Analysis/assets/155083462/4b888256-6f09-45a8-b9c2-5e36a6b9a379)
+
 ### Sales Pattern
+![MintClassics_page-0002](https://github.com/AnjaliM-9/MintClassics-Vehicle-Car-Report-Analysis/assets/155083462/71395b47-77a7-4f40-981d-1d1c6d15698b)
+
 ### Inventory analysis
+![MintClassics_page-0003](https://github.com/AnjaliM-9/MintClassics-Vehicle-Car-Report-Analysis/assets/155083462/8419890f-bf8b-437d-8e50-837f8f6cc884)
+
 ### What-if analysis
-## Insights!
+![MintClassics_page-0004](https://github.com/AnjaliM-9/MintClassics-Vehicle-Car-Report-Analysis/assets/155083462/5cc3a448-caf1-47ef-a0c9-d840c69e54a4)
+
+## Insights
+- Stakeholders may consider to reshuffle vintage car product line. 
+-	Inventory analysis suggest that there are some products under vintage car product line that aren’t moving or not in demand 1932 Alfa romeo8c2300 and 1932 Model A Ford j-coupe.
+-	Classic cars is best selling category however top 10 analysis doesn’t specifically only show one category product as best selling.
+-	In cluster analysis , USA , Spain and France are countries that generated most of revenue and profits.
+## Further Analysis
+I realized that realworld database or dateset is larger in terms of no. of records and ongoing in nature.. doing predictive analysis especially of sales (weekly,monthly,quarterly) could be done to provide realtime insights to stakeholders.Soon will add sql query analysis snapshots.
+  
+
 
